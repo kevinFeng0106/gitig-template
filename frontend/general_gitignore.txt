@@ -1,4 +1,4 @@
-# Created by CLI Frontend .gitignore Generator
+# Created by @moonlord/gitig
 # 前端项目通用 .gitignore 模板
 
 # 依赖文件 (Dependencies)
